@@ -19,7 +19,7 @@ npm install
 # Jalankan development server 
 npm run dev
 
-Struktur folder proyek: 
+# Struktur folder proyek: 
 react-styling-practice/ 
 ├── node_modules/ 
 ├── public/ 
